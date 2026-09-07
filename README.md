@@ -1,2 +1,2 @@
 # Exercicio-de-PHP
-Contagem progressiva, fatorial e tabuada.
+Contagem progressiva,regressiva ,  fatorial e tabuada.
